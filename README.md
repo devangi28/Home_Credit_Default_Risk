@@ -1,0 +1,2 @@
+# Home_Credit_Default_Risk
+Financial institutions have to consider several variables while approving a loan. To determine whether a given borrower can fully pay off the loan or cause it to be charged off is difficult. Machine learning can help us predict which loans will be charged off. In this project, I leveraged machine learning models such as Logistic Regression, K-Nearest Neighbours, Decision Tree, and Random Forest to predict the loan repayment potentiality of the customer. Achieved the highest accuracy of 94% with boosting mechanism. 
